@@ -13,7 +13,7 @@ const ContactUs = () => {
         </div>
         <div className="mb-6">
           <strong className="block mb-2">Phone:</strong>
-          <span className="text-gray-700">+1234567890</span>
+          <span className="text-gray-700">+91 1234567890</span>
         </div>
         <div className="mb-6">
           <strong className="block mb-2">Address:</strong>
